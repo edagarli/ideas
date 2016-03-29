@@ -9,8 +9,8 @@
   * [易停车](#parkingmore)
   * [WebView导航项目-gdp](#gdp)
 * [Doing](#doing)
-  * [轻量级Web框架Nicole](#Nicole)
-  * [每天实战一个React-Native App教程](#ReactNativeDayAndDay)
+  * [轻量级Web框架Nicole](#nicole)
+  * [每天实战一个React-Native App教程](#react-native-day-and-day)
   * [虚拟恋人](#lovers)
 * [Todo](#todo)
   
@@ -64,13 +64,13 @@
 - solve the a few parking position problems 
 
 ## Doing
-### [Nicole](https://github.com/edagarli/Nicole)
+### [nicole](https://github.com/edagarli/Nicole)
 
 - Web
 - Java
 - 一个轻量级框架(Java Web，Nicole取自我女朋友英文名)
 
-### [ReactNativeDayAndDay](https://github.com/edagarli/ReactNativeDayAndDay)
+### [react-native-day-and-day](https://github.com/edagarli/ReactNativeDayAndDay)
 
 - App
 - React-Native
