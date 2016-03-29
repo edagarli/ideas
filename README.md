@@ -34,7 +34,7 @@
 - React-Native
 - 书籍&电影
 
-### [elasticsearch 1.3中文发行版](https://github.com/edagarli/elasticsearch_rtf_1.3)
+### [elasticsearch](https://github.com/edagarli/elasticsearch_rtf_1.3)
 
 - Resources
 - elasticsearch
