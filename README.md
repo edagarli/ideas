@@ -1,11 +1,11 @@
 # ideas
-* [Done(:thumbsup:)](#donethumbsup)
-  * [打分吧](#dafenba)
+* [Done](#done)
+  * [打分吧](#打分吧)
   * 
-* [TODO(:sleeping:)](#sleepingsleeping)
+* [Todo](#todo)
   
-#Done(:thumbsup:)
-##[打分吧](http://www.wandoujia.com/apps/com.jhp.dafenba)
+## Done
+## [打分吧](http://www.wandoujia.com/apps/com.jhp.dafenba)
 
 - Android
 - Picture App
