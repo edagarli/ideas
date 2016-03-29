@@ -9,8 +9,8 @@
   * [易停车](#parkingmore)
   * [WebView导航项目-gdp](#gdp)
 * [Doing](#doing)
-  * [轻量级Web框架Nicole](#nicole)
-  * [每天实战一个React-Native App教程](#reactNativeDayAndDay)
+  * [轻量级Web框架Nicole](#Nicole)
+  * [每天实战一个React-Native App教程](#ReactNativeDayAndDay)
   * [虚拟恋人](#lovers)
 * [Todo](#todo)
   
